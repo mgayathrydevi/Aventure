@@ -1,0 +1,25 @@
+body{
+  background: #52B2BF;
+}
+dl{
+  font-size: 35px;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+}
+p
+{
+  color: white;
+  font-family:arial,sans-serif;
+  font-size: 45px;
+  text-align: center;
+}
+a{
+font-size:20px;
+color: white;
+}
+h1{
+font-family: 'Open Sans', sans-serif;
+color: white;
+text-align: center;
+font-size: 80px;
+}
